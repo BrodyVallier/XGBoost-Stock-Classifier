@@ -10,7 +10,7 @@ One of the main reasons this model was not used in testing for long term stocks 
 
 Future works: 
 
-In the future, a CNN (Convolutional Neural Network) will be added to analize the past hour of time series data for each stock price to aid the XGBoost algorithim in its prediction. Also, this model will be run using much more data in the near future, to test long term application, once I have access to more compute.
+In the future, a CNN (Convolutional Neural Network) will be added to analize the past hour of time series data for each stock price to aid the XGBoost algorithim in its prediction (curently in dev). Also, this model will be run using much more data in the near future, to test long term application, once I have access to more compute.
 
 
 
