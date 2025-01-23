@@ -2,7 +2,7 @@
 
 Overview: 
 
-The goal of this project was to use machine learning techniques to accurate predict if a stock will move up or down in price within the following hour. The model selected was XGBoost as the decision tree model can handle and predict time series data exceptionally well. Special thanks to Yahoo as the yFinance stock data set provided the data necessary for training the model. The model performed exceptionally well on 5 days of apple stock data as the Accuracy, through finetuning, was eventually able to surpass 93%. Given the volatitlity of the market this is a huge win since it is very rare for a regualr stock broker to match this prediction accuracy. On top of this Therefore, this application can serve as stock advisor to the average consumer while also being a great tool that stock brokers can fine tune for their individual prediction needs. 
+The goal of this project was to use machine learning techniques to accurate predict if a stock will move up or down in price within the following hour. The model selected was XGBoost as the decision tree model can handle and predict time series data exceptionally well. Special thanks to Yahoo as the yFinance stock data set provided the data necessary for training the model. The model performed exceptionally well on 5 days of apple stock data as the Accuracy, through finetuning, was eventually able to surpass 93%. Given the volatitlity of the market this is a huge win since it is very rare for a regualr stock broker to match this prediction accuracy. On top of this, the application can serve as stock advisor to the average consumer while also being a great tool that stock brokers can fine tune for their individual prediction needs. 
 
 Limiting variables and ways to improve:
 
