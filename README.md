@@ -10,7 +10,7 @@ One of the main reasons this model was not used in testing for long term stocks 
 
 Future works: 
 
-Recebly, the program has been modified to predict stock price movement a week in advance while maintaining similar accuracy. A total profit of $300 dollars with a $100 initial investment
+Recently, the program has been modified to predict stock price movement a week in advance while maintaining similar accuracy. A total profit of $300 dollars with a $100 initial investment
 
 
 
